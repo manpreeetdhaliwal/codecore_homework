@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,rails,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,rails,node
+# Created by https://www.toptal.com/developers/gitignore/api/macos,linux,node,rails
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,node,rails
 
 ### Linux ###
 *~
@@ -223,4 +223,4 @@ bower.json
 /storage/*
 !/storage/.keep
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,linux,rails,node
+# End of https://www.toptal.com/developers/gitignore/api/macos,linux,node,rails
